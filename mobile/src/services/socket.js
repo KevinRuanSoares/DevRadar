@@ -1,6 +1,7 @@
 import socketio from "socket.io-client";
+import Config from "./config";
 
-const socket = socketio("http://192.168.2.63:3333",{
+const socket = socketio(Config.host,{
     autoConnect:false
 });
 
