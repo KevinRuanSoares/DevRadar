@@ -39,7 +39,7 @@ function App() {
         </ul>
       </main>
       <footer>
-        <a href="" target="_blank">
+        <a href="https://apkskevin.s3.us-east-2.amazonaws.com/devradar.apk" target="_blank">
           <MdAndroid size={54} color="#7d40e7"/> 
         </a>
       </footer>
